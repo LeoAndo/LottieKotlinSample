@@ -1,7 +1,7 @@
 # LottieKotlinSample
 sample for Lottie
 
-# screenshot
+# Screenshot
 <img src="capture.gif" width=320 />
 
 # data
