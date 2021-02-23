@@ -12,3 +12,6 @@ https://lottiefiles.com/blog/working-with-lottie/getting-started-with-lottie-ani
 
 # For Java
 https://github.com/LeoAndo/LottieJavaSample/
+
+# code
+https://www.youtube.com/watch?v=dItIXpUPaMU&feature=youtu.be
